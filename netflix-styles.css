@@ -1,0 +1,229 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#seccion1 {
+    background-image: url('elbacknetflix.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    border-bottom: 10px solid gray;
+}
+
+#logos {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.boton {
+    background-color: rgb(255, 0, 0);
+    border: none;
+    color: white;
+    padding: 15px 70px;
+    text-align: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    right: 100px;
+    position: absolute;
+    top: 25px;
+}
+
+.lista {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 15px 50px;
+    text-align: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    right: 350px;
+    position: absolute;
+    top: 25px;
+}
+
+.texto {
+    font-size: 80px;
+    color: white;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    margin-top: 150px;
+    line-height: 85px;
+}
+
+.linea2 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+#linea3 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.input {
+    padding: 10px 100px;
+    position: absolute;
+    left: 600px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.comenzar {
+    background-color: red;
+    padding: 10px 60px;
+    position: absolute;
+    left: 980px;
+    font-size: 15px;
+    color: white;
+}
+
+.seccion2 {
+    background-size: cover;
+}
+
+h2 {
+    font-size: 50px;
+    margin-left: 200px;
+    padding-bottom: 30px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    margin-left: 200px;
+    position: right 150px;
+    width: 50%;
+}
+
+#tv {
+    position: relative;
+    width: 65%;
+}
+
+.border {
+    background-color: rgb(0, 0, 0);
+    border-bottom: 10px solid gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.bottons {
+    background-color: grey;
+    color: white;
+    padding: 10px 5px;
+    font-size: 30px;
+    display: flex;
+    inline-size: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 600px;
+    max-width: 600px;
+    text-align: webkit-center;
+    cursor: pointer;
+    transition: all ease-in 0.1s;
+    border: none;
+    margin: 5px;
+}
+
+.bottons:hover {
+    background-color: rgb(56, 56, 56);
+    color: black;
+}
+
+.buttons:visited {
+    background-color: blue;
+}
+
+#botton {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    text-align: -webkit-center;
+    padding-bottom: 100px;
+}
+
+#input2 {
+    background-color: black;
+    padding-top: 500px;
+    position: absolute;
+}
+
+h4 {
+    color: white;
+    padding: 30px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#h22 {
+    text-align: center;
+    margin-left: 0%;
+}
+
+.input2 {
+    padding: 10px 100px;
+    position: absolute;
+    left: 700px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.comenzar2 {
+    background-color: red;
+    padding: 10px 60px;
+    position: absolute;
+    left: 980px;
+    font-size: 15px;
+    color: white;
+}
+
+.final {
+    background-color: rgb(0, 0, 0);
+    border-bottom: 10px solid gray;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+#listas {
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+}
+
+h5 {
+    color: gray;
+    padding-top: 100px;
+    padding-left: 410px;
+    padding-bottom: 20px;
+    font-size: 18px;
+}
+
+.palabras {
+    color: gray;
+}
+
+li {
+    padding: 5px 30px;
+    list-style: none;
+}
+
+#idioma2 {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    width: 100px;
+    height: 60px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
